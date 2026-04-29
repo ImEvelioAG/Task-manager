@@ -20,9 +20,7 @@ Este proyecto está dividido en dos partes:
 ### Frontend
 
 * React (JavaScript)
-* Vite
 * Axios
-* React Router
 
 ---
 
@@ -40,7 +38,7 @@ task-manager-project/
 ##  Instalación
 
 #  Configuración Backend (Laravel)
-Asegurate de tener instalado *php* antes de empezar!!!!
+Asegurate de tener instalado *php* !!!!
 
 ```bash
 cd task-manager-api
